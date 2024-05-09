@@ -30,7 +30,7 @@ ORDER BY
     total_quantity_sold DESC
 LIMIT 10;
 
--- Evaluate the sales performane of each sales representative
+-- Evaluate the sales performance of each sales representative
 SELECT
     e.firstName,
     e.lastName,
